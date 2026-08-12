@@ -1,10 +1,7 @@
-first_name = "ada"
-last_name = "lovelace"
-full_name = first_name + " " + last_name
+print("Python")
 
-print(full_name)
+print("\tPython")
 
-print("Hello, " + full_name.title() + "!")
+print("Languages:\nPython\nC\nJavaScript")
 
-message = "Hello, " + full_name.title() + "!"
-print(message)
+print("Languages:\n\tPython\n\tC\n\tJavaScript")
